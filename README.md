@@ -68,7 +68,21 @@ This is a Java-based security project designed to demonstrate the implementation
 5. Access the application at:
    ```
 http://localhost:8080
+
+6.captures :
+![loginAuth](https://github.com/user-attachments/assets/4fd99222-ff8b-4358-8f47-9336e7f844e3)
+![securityUpload](https://github.com/user-attachments/assets/6256efad-a0df-40a0-b269-fd93d9a5f377)
+![Uploaddata](https://github.com/user-attachments/assets/f3f4e406-136a-40af-a575-c366f1d2f0c3)
+![Getupload](https://github.com/user-attachments/assets/0c069aaf-9ad5-4cf9-b25a-c223f9c26c44)
+![basededonnee](https://github.com/user-attachments/assets/d64c3d1a-854b-427d-b66e-888fcee2008d)
+![JWTTokenProvider](https://github.com/user-attachments/assets/ce75731e-954b-431f-ba8a-2b43f0a8dcce)
+![JWTAuthentication](https://github.com/user-attachments/assets/5ae75bfb-5c5d-407e-8e9d-5d8cc66662dc)
+![SecurityConfig](https://github.com/user-attachments/assets/6a7d91e1-6df1-43e9-8da8-42fe476b1fbf)
+![Registerauth](https://github.com/user-attachments/assets/ccab9ddf-39e4-40b3-a3e2-de01834022a9)
+
 ```
+
+
 
 ---
 
@@ -110,13 +124,5 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 For questions or support, contact:
 - Email: [your-email@example.com](mailto:your-email@example.com)
 - GitHub: [your-username](https://github.com/your-username)
-![JWTAuthentication](https://github.com/user-attachments/assets/529e0fe8-227d-4ce4-9ccd-3dd5e9ac51f7)
-![SecurityConfig](https://github.com/user-attachments/assets/dc896a2a-8b15-41c3-9835-995ed0a6c3c4)
-![Registerauth](https://github.com/user-attachments/assets/5671bbc0-c369-493b-b0af-deda4bec3057)
-![loginAuth](https://github.com/user-attachments/assets/2d452bda-e6ea-46f9-8b82-358ceccef585)
-![securityUpload](https://github.com/user-attachments/assets/4a244bcc-6390-4c6b-a780-e1d8155a4c0f)
-![Uploaddata](https://github.com/user-attachments/assets/4cba055a-37d6-4e9b-998c-62e77006a3fd)
-![Getupload](https://github.com/user-attachments/assets/f33ef11f-d807-4838-8195-60bee0cabd51)
-![basededonnee](https://github.com/user-attachments/assets/f4845b92-0298-4665-b8bf-bd9a3260086c)
-![JWTTokenProvider](https://github.com/user-attachments/assets/a0dc64a3-cb51-48a7-a3b7-1aabd9456a09)
+
 
